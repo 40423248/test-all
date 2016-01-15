@@ -15,14 +15,14 @@
 <v t="leo.20151225143013.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="leo.20151225144550.1"><vh>@button user pelican</vh></v>
-<v t="leo.20151225142937.2"><vh>@path ./</vh>
+<v t="leo.20151225142937.2" a="E"><vh>@path ./</vh>
 <v t="leo.20151225144801.1"><vh>@button admin pelican</vh></v>
 <v t="leo.20151225150612.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151225150612.2"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151225150612.3"><vh>@path content</vh></v>
 </v>
 </v>
-<v t="leo.20151225143830.1"><vh>@path ./</vh>
+<v t="leo.20151225143830.1" a="E"><vh>@path ./</vh>
 <v t="leo.20151225143830.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151225143830.3"><vh>@edit 40423248_cp_w1_p.html</vh></v>
 <v t="leo.20151225143830.4"><vh>@edit 40423248_cp_w2_p.html</vh></v>
@@ -41,7 +41,7 @@
 <v t="leo.20160108145625.1"><vh>@edit 40423248_cp_w15_p.html</vh></v>
 <v t="leo.20160115142229.1"><vh>@edit 40423248_cp_w16_p.html</vh></v>
 <v t="leo.20160115142859.1"><vh>@edit 40423248_cp_w17_p.html</vh></v>
-<v t="leo.20160115143000.1"><vh>@edit 40423248_cp_期末考週_p.html</vh></v>
+<v t="leo.20160115143000.1"><vh>@edit 40423248_cp_w18_p.html</vh></v>
 <v t="leo.20151225143830.13" a="E"><vh>@path pelican</vh>
 <v t="leo.20151225143830.14"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151225143830.15"><vh>@edit publishconf.py</vh></v>
@@ -64,7 +64,7 @@
 <v t="leo.20160108145637.1"><vh>@edit 40423248_cp_w15.md</vh></v>
 <v t="leo.20160115142300.1"><vh>@edit 40423248_cp_w16.md</vh></v>
 <v t="leo.20160115142912.1"><vh>@edit 40423248_cp_w17.md</vh></v>
-<v t="leo.20160115143034.1"><vh>@edit 40423248_cp_期末考週.md</vh></v>
+<v t="leo.20160115143034.1"><vh>@edit 40423248_cp_w18.md</vh></v>
 </v>
 </v>
 </v>
