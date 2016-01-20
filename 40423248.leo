@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20151225143013.1"><vh>@settings</vh>
+<v t="leo.20151225143013.1" a="E"><vh>@settings</vh>
 <v t="leo.20151225143013.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20151225143013.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -45,7 +45,7 @@
 <v t="leo.20151225143830.13" a="E"><vh>@path pelican</vh>
 <v t="leo.20151225143830.14"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151225143830.15"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20151225143830.16"><vh>@path content</vh>
+<v t="leo.20151225143830.16" a="E"><vh>@path content</vh>
 <v t="leo.20151225143830.17"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151225143830.18"><vh>@edit 40423248_cp_w1.md</vh></v>
 <v t="leo.20151225143830.19"><vh>@edit 40423248_cp_w2.md</vh></v>
